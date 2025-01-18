@@ -1,4 +1,4 @@
-# Web Login BruteForce
+# 💀Web Login BruteForce💀
 
 ## 📜Description
 This is an interactive Python script designed to perform brute force login attacks on a target web application.  
@@ -78,7 +78,7 @@ Step 2: move it into the Web-Login-BruteForce Directory ( deleting rockyou is no
 
 Step 3: While running the script , it ask for password file then type the name of ur own created list .  
 
-## 📂Example Usage
+## 📂Example OutPut
 	==== Interactive Login Bruteforce Script ====
 	Enter the target URL (e.g., http://example.com:8080/login): http://testsite.com:8080/login
 	Enter the username to test: admin
